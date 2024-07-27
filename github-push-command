@@ -1,0 +1,9 @@
+
+
+/////////.env  and  other file not push in github//////////
+git rm -r --cached .
+git add .
+git commit -m "Refresh .gitignore and stop tracking .env"
+/////////////////////////////////////////////////////////
+
+/////////// 
